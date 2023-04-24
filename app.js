@@ -6,78 +6,78 @@ const songs = [
         id:'1',
         songName:` Total Gaming <br>
         <div class="subtitle">Mythpat</div>`,
-        poster: "img/1.jpg"
+        poster: "https://raw.githubusercontent.com/Anshz7/Kahaniyan/master/img/1.jpg"
     },
     {
         id:'2',
         songName:` Hippocampus <br>
         <div class="subtitle">Maed in India</div>`,
-        poster: "img/2.jpg"
+        poster: "https://raw.githubusercontent.com/Anshz7/Kahaniyan/master/img/2.jpg"
     },
     {
         id:"3",
         songName: `Period Dramas <br><div class="subtitle"> Respectfully disagree</div>`,
-        poster: "img/3.jpg",
+        poster: "https://raw.githubusercontent.com/Anshz7/Kahaniyan/master/img/3.jpg",
     },
     {
         id:"4",
         songName: `Bollywood Goof <br><div class="subtitle">The Internet Said So</div>`,
-        poster: "img/4.jpg",
+        poster: "img/4.jpghttps://raw.githubusercontent.com/Anshz7/Kahaniyan/master/img/4.jpg",
     },
     {
         id:"5",
         songName: `Coolest Dad <br><div class="subtitle">The Ranveer Show</div>`,
-        poster: "img/5.jpg",
+        poster: "https://raw.githubusercontent.com/Anshz7/Kahaniyan/master/img/5.jpg",
     },
     {
         id:"6",
         songName: `Bread Jalebi <br><div class="subtitle">The Tastes of India</div>`,
-        poster: "img/6.jpg",
+        poster: "https://raw.githubusercontent.com/Anshz7/Kahaniyan/master/img/6.jpg",
     },
     {
         id:"7",
         songName: `Diu <br><div class="subtitle">The Musafir Stories</div>`,
-        poster: "img/7.jpg",
+        poster: "https://raw.githubusercontent.com/Anshz7/Kahaniyan/master/img/7.jpg",
     },
     {
         id:"8",
         songName: `Salary of IPS <br><div class="subtitle">Figuring Out</div>`,
-        poster: "img/8.jpg",
+        poster: "https://raw.githubusercontent.com/Anshz7/Kahaniyan/master/img/8.jpg",
     },
     {
         id:"9",
         songName: `Live in London <br><div class="subtitle">Masala</div>`,
-        poster: "img/9.jpg",
+        poster: "https://raw.githubusercontent.com/Anshz7/Kahaniyan/master/img/9.jpg",
     },
     {
         id:"10",
         songName: `Ep 325   <br><div class="subtitle">Seen & Unseen</div>`,
-        poster: "img/10.jpg",
+        poster: "https://raw.githubusercontent.com/Anshz7/Kahaniyan/master/img/10.jpg",
     },
     {
         id:"11",
         songName: `Tiger Census <br><div class="subtitle">In Focus</div>`,
-        poster: "img/11.jpg",
+        poster: "https://raw.githubusercontent.com/Anshz7/Kahaniyan/master/img/11.jpg",
     },
     {
         id:"12",
         songName: `Thrive <br><div class="subtitle">Finshots Daily</div>`,
-        poster: "img/12.jpg",
+        poster: "https://raw.githubusercontent.com/Anshz7/Kahaniyan/master/img/12.jpg",
     },
     {
         id:"13",
         songName: `Fixed Income <br><div class="subtitle">Paisa Vaisa</div>`,
-        poster: "img/13.jpg",
+        poster: "https://raw.githubusercontent.com/Anshz7/Kahaniyan/master/img/13.jpg",
     },
     {
         id:"14",
         songName: `Boundaries <br><div class="subtitle">On Purpose</div>`,
-        poster: "img/14.jpg",
+        poster: "https://raw.githubusercontent.com/Anshz7/Kahaniyan/master/img/14.jpg",
     },
     {
         id:"15",
         songName: `Brain Tech <br><div class="subtitle">Huberman Lab </div>`,
-        poster: "img/15.jpg",
+        poster: "https://raw.githubusercontent.com/Anshz7/Kahaniyan/master/img/15.jpg",
     },
 ]
 
