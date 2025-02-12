@@ -296,6 +296,6 @@ let item = document.getElementsByClassName('item')[0];
 left_scrolls.addEventListener('click', ()=>{
     item.scrollLeft -= 330;
 })
-right_scrolls.addEventListen('click', ()=>{
+right_scrolls.addEventListener('click', ()=>{
     item.scrollLeft += 330;
 })
